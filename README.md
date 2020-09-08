@@ -1,5 +1,5 @@
 # Ohigo
-A basic project for learning C++ and SDL 2.0.
+A basic project for learning C++ and SDL 2.0. <br>
 Following these tutorials: <br>
 https://www.udemy.com/course/hack-n-slash-sdl2/ <br>
 https://lazyfoo.net/tutorials/SDL/index.php
